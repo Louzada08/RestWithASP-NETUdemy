@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Anderson\\OneDrive\\Projeto Aulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectUniqueName": "D:\\Projeto Aulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "projectName": "RestWithASPNETUdemy",
-      "projectPath": "C:\\Users\\Anderson\\OneDrive\\Projeto Aulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+      "projectPath": "D:\\Projeto Aulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\Anderson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Anderson\\OneDrive\\Projeto Aulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\obj\\",
+      "outputPath": "D:\\Projeto Aulas\\RestWithASP-NETUdemy\\RestWithASPNETUdemy 01 - Calculator\\RestWithASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
